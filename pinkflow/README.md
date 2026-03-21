@@ -97,4 +97,5 @@ PinkFlow is part of a larger accessible web ecosystem:
 
 ## License
 
-Open source - use and modify as needed for your projects.
+reference to
+https://github.com/pinkycollie/pinkflow/blob/main/workflow-system/IMPLEMENTATION_SUMMARY.md
